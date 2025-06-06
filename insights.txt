@@ -1,0 +1,4 @@
+1. West region had the highest sales among all four regions.
+2. Technology category generated the most revenue, followed by Furniture.
+3. Sales peaked around November–December, showing strong year-end performance.
+4. South region recorded the lowest total sales across all categories.
